@@ -41,7 +41,6 @@ Course author: Gaurav Sen
     - 10 Extensible [Scalability] refers to the ability to add components and expand functions
 
 
-
 #### Course3.4. Consistent Hashing
 
 Consistent Hashing helps to make Load Balancing
