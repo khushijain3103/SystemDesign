@@ -4,10 +4,6 @@
 
 Course author: Gaurav Sen
 
-Note By: xuhaobit@gmail.com
-
-
-
 #### Course 1: System Design Basics: Horizontal vs. Vertical Scaling
 
 - Scalability:
